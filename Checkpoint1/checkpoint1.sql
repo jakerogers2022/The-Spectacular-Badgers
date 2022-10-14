@@ -1,21 +1,4 @@
-SELECT category, allegation_name, COUNT(DISTINCT allegation_id) cr_count
-FROM data_allegationcategory c JOIN data_officerallegation d
-ON c.id = d.allegation_category_id
-WHERE category_code ILIKE '03_'
-GROUP BY category, allegation_name;
-
-SELECT COUNT(DISTINCT allegation_id) cr_count
-FROM data_allegationcategory c JOIN data_officerallegation d
-ON c.id = d.allegation_category_id
-WHERE category_code ILIKE '03_';
-
-SELECT category, allegation_name, COUNT(DISTINCT allegation_id) cr_count
-FROM data_allegationcategory c JOIN data_officerallegation d
-ON c.id = d.allegation_category_id
-WHERE category_code ILIKE '03C'
-GROUP BY category, allegation_name;
-
-
+--Question 2: Does racial bias play a role in the outcomes of search warrants?
 
 SELECT a.name AS district_name, race, SUM("count") population
 FROM data_racepopulation dr JOIN data_area a ON a.id =dr.area_id
@@ -67,6 +50,24 @@ FROM data_area a
 WHERE area_type='police-districts'
 GROUP BY district_name, population, white_pop, black_pop
 ORDER BY search_warrant_cnt DESC;
+
+--question 5: Of the complaints categorized as improper search, what proportion alleged search of premise without a warrant?
+SELECT category, allegation_name, COUNT(DISTINCT allegation_id) cr_count
+FROM data_allegationcategory c JOIN data_officerallegation d
+ON c.id = d.allegation_category_id
+WHERE category_code ILIKE '03_'
+GROUP BY category, allegation_name;
+
+SELECT COUNT(DISTINCT allegation_id) cr_count
+FROM data_allegationcategory c JOIN data_officerallegation d
+ON c.id = d.allegation_category_id
+WHERE category_code ILIKE '03_';
+
+SELECT category, allegation_name, COUNT(DISTINCT allegation_id) cr_count
+FROM data_allegationcategory c JOIN data_officerallegation d
+ON c.id = d.allegation_category_id
+WHERE category_code ILIKE '03C'
+GROUP BY category, allegation_name;
 
 SELECT DISTINCT d.allegation_id, category_code, cr_text
 FROM data_allegationcategory c
