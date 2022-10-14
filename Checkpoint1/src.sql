@@ -81,7 +81,6 @@ GROUP BY primary_cause
 HAVING COUNT(*) > 1;
 
 -- 5. Of the complaints categorized as improper search, what proportion alleged search of premise without a warrant?
---question 5: Of the complaints categorized as improper search, what proportion alleged search of premise without a warrant?
 SELECT category, allegation_name, COUNT(DISTINCT allegation_id) cr_count
 FROM data_allegationcategory c JOIN data_officerallegation d
 ON c.id = d.allegation_category_id
