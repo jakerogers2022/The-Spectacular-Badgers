@@ -1,0 +1,40 @@
+confusion matrix: [[1196  728]
+ [ 724 1231]]
+validation accuracy: 0.625676720804331
+f_score: 0.6222684703433923
+confusion matrix: [[1201  686]
+ [ 747 1245]]
+validation accuracy: 0.6305748904356793
+f_score: 0.6263363754889179
+confusion matrix: [[1267  719]
+ [ 680 1213]]
+validation accuracy: 0.6393400360917763
+f_score: 0.6442918891431477
+confusion matrix: [[1241  754]
+ [ 709 1175]]
+validation accuracy: 0.622840938386182
+f_score: 0.6291508238276299
+confusion matrix: [[1240  737]
+ [ 735 1167]]
+validation accuracy: 0.6205207527713328
+f_score: 0.6275303643724697
+confusion matrix: [[1191  664]
+ [ 775 1249]]
+validation accuracy: 0.6290281000257798
+f_score: 0.6233970164878304
+confusion matrix: [[1277  815]
+ [ 664 1123]]
+validation accuracy: 0.6187161639597835
+f_score: 0.6332754773121746
+confusion matrix: [[1219  666]
+ [ 749 1245]]
+validation accuracy: 0.6352152616653777
+f_score: 0.6327536984168181
+confusion matrix: [[1140  668]
+ [ 783 1288]]
+validation accuracy: 0.625934519205981
+f_score: 0.6110962208523184
+confusion matrix: [[1210  727]
+ [ 677 1265]]
+validation accuracy: 0.6380510440835266
+f_score: 0.6328451882845187
