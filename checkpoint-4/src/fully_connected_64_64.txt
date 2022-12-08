@@ -1,0 +1,1141 @@
+confusion matrix: [[1145  649]
+ [ 774 1311]]
+validation accuracy: 0.6331528744521784
+f_score: 0.6167519525989765
+day_of_year_sin 
+0.032
+ +/- 0.004
+month_cos 
+0.031
+ +/- 0.005
+hour_cos 
+0.031
+ +/- 0.005
+year     
+0.030
+ +/- 0.005
+month_sin 
+0.029
+ +/- 0.006
+policeunit_149 
+0.028
+ +/- 0.005
+hour_sin 
+0.028
+ +/- 0.006
+district_11 
+0.027
+ +/- 0.004
+day_of_year_cos 
+0.026
+ +/- 0.005
+policeunit_153 
+0.015
+ +/- 0.002
+district_7 
+0.014
+ +/- 0.003
+policeunit_174 
+0.011
+ +/- 0.002
+district_5 
+0.011
+ +/- 0.002
+district_10 
+0.011
+ +/- 0.003
+district_15 
+0.009
+ +/- 0.002
+policeunit_173 
+0.008
+ +/- 0.002
+district_16 
+0.008
+ +/- 0.002
+policeunit_7 
+0.007
+ +/- 0.002
+policeunit_215 
+0.007
+ +/- 0.002
+policeunit_11 
+0.006
+ +/- 0.001
+policeunit_175 
+0.006
+ +/- 0.001
+policeunit_155 
+0.005
+ +/- 0.001
+policeunit_16 
+0.005
+ +/- 0.001
+policeunit_206 
+0.005
+ +/- 0.001
+district_25 
+0.005
+ +/- 0.001
+district_6 
+0.004
+ +/- 0.002
+policeunit_8 
+0.004
+ +/- 0.001
+district_19 
+0.004
+ +/- 0.002
+policeunit_156 
+0.004
+ +/- 0.001
+policeunit_5 
+0.004
+ +/- 0.001
+policeunit_10 
+0.004
+ +/- 0.001
+district_3 
+0.004
+ +/- 0.002
+district_1 
+0.003
+ +/- 0.001
+policeunit_208 
+0.003
+ +/- 0.001
+policeunit_26 
+0.003
+ +/- 0.001
+district_24 
+0.002
+ +/- 0.001
+policeunit_9 
+0.002
+ +/- 0.001
+district_20 
+0.002
+ +/- 0.001
+policeunit_21 
+0.001
+ +/- 0.001
+policeunit_176 
+0.001
+ +/- 0.000
+policeunit_13 
+0.001
+ +/- 0.001
+policeunit_204 
+0.001
+ +/- 0.001
+policeunit_152 
+0.001
+ +/- 0.000
+policeunit_177 
+0.001
+ +/- 0.000
+policeunit_218 
+0.001
+ +/- 0.000
+policeunit_80 
+0.000
+ +/- 0.000
+confusion matrix: [[1276  809]
+ [ 669 1125]]
+validation accuracy: 0.6189739623614333
+f_score: 0.6332506203473945
+day_of_year_sin 
+0.035
+ +/- 0.005
+hour_cos 
+0.032
+ +/- 0.005
+year     
+0.032
+ +/- 0.005
+month_sin 
+0.029
+ +/- 0.005
+month_cos 
+0.026
+ +/- 0.005
+policeunit_149 
+0.025
+ +/- 0.004
+hour_sin 
+0.025
+ +/- 0.004
+district_11 
+0.024
+ +/- 0.003
+day_of_year_cos 
+0.022
+ +/- 0.006
+policeunit_153 
+0.013
+ +/- 0.003
+policeunit_215 
+0.010
+ +/- 0.001
+policeunit_174 
+0.010
+ +/- 0.002
+district_5 
+0.009
+ +/- 0.002
+policeunit_206 
+0.008
+ +/- 0.002
+district_15 
+0.007
+ +/- 0.002
+district_16 
+0.007
+ +/- 0.002
+policeunit_173 
+0.006
+ +/- 0.002
+policeunit_175 
+0.006
+ +/- 0.002
+policeunit_157 
+0.006
+ +/- 0.002
+policeunit_8 
+0.005
+ +/- 0.002
+policeunit_11 
+0.005
+ +/- 0.002
+district_6 
+0.005
+ +/- 0.002
+district_31 
+0.005
+ +/- 0.002
+policeunit_208 
+0.005
+ +/- 0.001
+policeunit_156 
+0.005
+ +/- 0.001
+policeunit_6 
+0.005
+ +/- 0.001
+district_4 
+0.005
+ +/- 0.002
+policeunit_7 
+0.004
+ +/- 0.002
+policeunit_16 
+0.004
+ +/- 0.001
+policeunit_155 
+0.004
+ +/- 0.001
+policeunit_5 
+0.003
+ +/- 0.001
+policeunit_151 
+0.003
+ +/- 0.001
+policeunit_10 
+0.003
+ +/- 0.001
+policeunit_26 
+0.003
+ +/- 0.001
+policeunit_177 
+0.002
+ +/- 0.001
+district_41 
+0.002
+ +/- 0.001
+district_1 
+0.002
+ +/- 0.001
+policeunit_25 
+0.002
+ +/- 0.001
+policeunit_4 
+0.002
+ +/- 0.001
+policeunit_204 
+0.001
+ +/- 0.000
+policeunit_15 
+0.001
+ +/- 0.000
+policeunit_17 
+0.001
+ +/- 0.000
+policeunit_218 
+0.000
+ +/- 0.000
+policeunit_35 
+0.000
+ +/- 0.000
+confusion matrix: [[1193  723]
+ [ 757 1206]]
+validation accuracy: 0.6184583655581335
+f_score: 0.6171753750646664
+day_of_year_sin 
+0.038
+ +/- 0.005
+month_sin 
+0.036
+ +/- 0.006
+policeunit_149 
+0.034
+ +/- 0.003
+hour_cos 
+0.023
+ +/- 0.005
+month_cos 
+0.023
+ +/- 0.005
+day_of_year_cos 
+0.019
+ +/- 0.005
+year     
+0.016
+ +/- 0.005
+district_11 
+0.015
+ +/- 0.003
+hour_sin 
+0.013
+ +/- 0.005
+policeunit_215 
+0.012
+ +/- 0.002
+policeunit_174 
+0.011
+ +/- 0.003
+policeunit_153 
+0.011
+ +/- 0.002
+policeunit_206 
+0.009
+ +/- 0.001
+policeunit_7 
+0.008
+ +/- 0.002
+district_16 
+0.007
+ +/- 0.001
+district_3 
+0.005
+ +/- 0.002
+district_19 
+0.005
+ +/- 0.002
+district_1 
+0.005
+ +/- 0.001
+policeunit_208 
+0.005
+ +/- 0.001
+policeunit_155 
+0.005
+ +/- 0.002
+district_9 
+0.005
+ +/- 0.002
+district_6 
+0.005
+ +/- 0.002
+policeunit_11 
+0.004
+ +/- 0.002
+policeunit_5 
+0.004
+ +/- 0.001
+district_41 
+0.004
+ +/- 0.001
+policeunit_151 
+0.003
+ +/- 0.001
+policeunit_55 
+0.003
+ +/- 0.001
+district_8 
+0.003
+ +/- 0.001
+policeunit_156 
+0.003
+ +/- 0.001
+policeunit_183 
+0.003
+ +/- 0.001
+policeunit_9 
+0.002
+ +/- 0.001
+policeunit_176 
+0.002
+ +/- 0.000
+policeunit_13 
+0.001
+ +/- 0.001
+policeunit_201 
+0.001
+ +/- 0.000
+policeunit_17 
+0.001
+ +/- 0.000
+district_51 
+0.000
+ +/- 0.000
+confusion matrix: [[1158  725]
+ [ 777 1219]]
+validation accuracy: 0.6127868007218356
+f_score: 0.606600314300681
+policeunit_149 
+0.028
+ +/- 0.003
+hour_sin 
+0.026
+ +/- 0.004
+day_of_year_cos 
+0.025
+ +/- 0.005
+district_11 
+0.024
+ +/- 0.004
+day_of_year_sin 
+0.023
+ +/- 0.005
+month_sin 
+0.022
+ +/- 0.005
+year     
+0.021
+ +/- 0.006
+hour_cos 
+0.016
+ +/- 0.006
+month_cos 
+0.012
+ +/- 0.004
+policeunit_206 
+0.009
+ +/- 0.001
+district_16 
+0.009
+ +/- 0.002
+policeunit_208 
+0.008
+ +/- 0.002
+policeunit_153 
+0.008
+ +/- 0.002
+policeunit_215 
+0.007
+ +/- 0.001
+district_4 
+0.006
+ +/- 0.002
+district_9 
+0.006
+ +/- 0.002
+policeunit_155 
+0.005
+ +/- 0.001
+policeunit_175 
+0.005
+ +/- 0.001
+district_31 
+0.005
+ +/- 0.002
+district_6 
+0.004
+ +/- 0.002
+district_10 
+0.003
+ +/- 0.002
+policeunit_157 
+0.003
+ +/- 0.002
+policeunit_212 
+0.002
+ +/- 0.001
+district_41 
+0.002
+ +/- 0.001
+policeunit_25 
+0.001
+ +/- 0.001
+policeunit_201 
+0.001
+ +/- 0.000
+district_13 
+0.001
+ +/- 0.000
+confusion matrix: [[1257  817]
+ [ 705 1100]]
+validation accuracy: 0.6076308326888373
+f_score: 0.6228939544103071
+policeunit_149 
+0.023
+ +/- 0.004
+hour_cos 
+0.023
+ +/- 0.006
+hour_sin 
+0.017
+ +/- 0.005
+month_sin 
+0.016
+ +/- 0.006
+day_of_year_cos 
+0.014
+ +/- 0.006
+month_cos 
+0.013
+ +/- 0.005
+day_of_year_sin 
+0.013
+ +/- 0.004
+year     
+0.013
+ +/- 0.005
+district_7 
+0.012
+ +/- 0.002
+district_11 
+0.009
+ +/- 0.003
+policeunit_153 
+0.008
+ +/- 0.002
+policeunit_208 
+0.006
+ +/- 0.001
+district_4 
+0.006
+ +/- 0.002
+policeunit_206 
+0.006
+ +/- 0.001
+policeunit_215 
+0.005
+ +/- 0.002
+district_12 
+0.005
+ +/- 0.002
+district_16 
+0.005
+ +/- 0.001
+policeunit_6 
+0.005
+ +/- 0.001
+policeunit_173 
+0.005
+ +/- 0.002
+district_10 
+0.005
+ +/- 0.002
+district_19 
+0.005
+ +/- 0.002
+policeunit_7 
+0.004
+ +/- 0.002
+policeunit_11 
+0.004
+ +/- 0.002
+policeunit_174 
+0.004
+ +/- 0.002
+district_6 
+0.004
+ +/- 0.002
+policeunit_157 
+0.004
+ +/- 0.002
+district_31 
+0.004
+ +/- 0.002
+policeunit_155 
+0.004
+ +/- 0.001
+policeunit_16 
+0.003
+ +/- 0.001
+policeunit_55 
+0.003
+ +/- 0.001
+policeunit_156 
+0.002
+ +/- 0.001
+policeunit_26 
+0.002
+ +/- 0.001
+district_18 
+0.001
+ +/- 0.000
+policeunit_17 
+0.001
+ +/- 0.000
+policeunit_201 
+0.001
+ +/- 0.000
+confusion matrix: [[1170  728]
+ [ 788 1193]]
+validation accuracy: 0.6091776230987368
+f_score: 0.6068464730290456
+policeunit_149 
+0.034
+ +/- 0.005
+hour_cos 
+0.020
+ +/- 0.006
+day_of_year_sin 
+0.018
+ +/- 0.004
+day_of_year_cos 
+0.017
+ +/- 0.004
+district_11 
+0.016
+ +/- 0.002
+hour_sin 
+0.015
+ +/- 0.005
+month_cos 
+0.014
+ +/- 0.006
+year     
+0.013
+ +/- 0.004
+month_sin 
+0.010
+ +/- 0.005
+policeunit_174 
+0.009
+ +/- 0.002
+policeunit_153 
+0.007
+ +/- 0.003
+policeunit_5 
+0.007
+ +/- 0.001
+policeunit_206 
+0.006
+ +/- 0.001
+policeunit_155 
+0.006
+ +/- 0.001
+policeunit_173 
+0.006
+ +/- 0.002
+policeunit_11 
+0.006
+ +/- 0.002
+policeunit_208 
+0.006
+ +/- 0.002
+district_16 
+0.005
+ +/- 0.001
+district_4 
+0.005
+ +/- 0.002
+policeunit_175 
+0.005
+ +/- 0.002
+policeunit_215 
+0.005
+ +/- 0.002
+district_5 
+0.004
+ +/- 0.002
+policeunit_156 
+0.004
+ +/- 0.001
+policeunit_4 
+0.004
+ +/- 0.001
+district_25 
+0.004
+ +/- 0.002
+district_12 
+0.003
+ +/- 0.001
+district_1 
+0.003
+ +/- 0.001
+district_2 
+0.003
+ +/- 0.001
+policeunit_25 
+0.001
+ +/- 0.001
+policeunit_204 
+0.001
+ +/- 0.000
+confusion matrix: [[1175  709]
+ [ 760 1235]]
+validation accuracy: 0.6212941479762826
+f_score: 0.6153443309766956
+hour_cos 
+0.044
+ +/- 0.006
+month_sin 
+0.031
+ +/- 0.005
+policeunit_149 
+0.028
+ +/- 0.004
+day_of_year_sin 
+0.027
+ +/- 0.005
+year     
+0.024
+ +/- 0.006
+month_cos 
+0.021
+ +/- 0.005
+day_of_year_cos 
+0.017
+ +/- 0.005
+hour_sin 
+0.017
+ +/- 0.004
+district_7 
+0.013
+ +/- 0.003
+district_11 
+0.013
+ +/- 0.004
+policeunit_173 
+0.010
+ +/- 0.002
+policeunit_215 
+0.010
+ +/- 0.001
+policeunit_174 
+0.009
+ +/- 0.002
+policeunit_206 
+0.008
+ +/- 0.001
+policeunit_157 
+0.007
+ +/- 0.001
+policeunit_5 
+0.007
+ +/- 0.001
+policeunit_153 
+0.006
+ +/- 0.002
+district_10 
+0.006
+ +/- 0.002
+policeunit_208 
+0.006
+ +/- 0.001
+policeunit_156 
+0.006
+ +/- 0.001
+district_5 
+0.005
+ +/- 0.002
+policeunit_155 
+0.005
+ +/- 0.001
+policeunit_11 
+0.005
+ +/- 0.002
+district_9 
+0.005
+ +/- 0.002
+policeunit_7 
+0.005
+ +/- 0.002
+district_3 
+0.004
+ +/- 0.002
+policeunit_158 
+0.004
+ +/- 0.001
+district_31 
+0.004
+ +/- 0.001
+policeunit_175 
+0.003
+ +/- 0.001
+policeunit_6 
+0.003
+ +/- 0.001
+policeunit_16 
+0.003
+ +/- 0.001
+district_1 
+0.003
+ +/- 0.001
+policeunit_10 
+0.003
+ +/- 0.001
+policeunit_8 
+0.003
+ +/- 0.001
+district_2 
+0.002
+ +/- 0.001
+district_12 
+0.002
+ +/- 0.001
+policeunit_25 
+0.001
+ +/- 0.001
+policeunit_18 
+0.001
+ +/- 0.001
+policeunit_17 
+0.001
+ +/- 0.000
+policeunit_19 
+0.001
+ +/- 0.000
+policeunit_218 
+0.001
+ +/- 0.000
+confusion matrix: [[1240  778]
+ [ 713 1148]]
+validation accuracy: 0.6156225831399845
+f_score: 0.6245278267438932
+hour_sin 
+0.035
+ +/- 0.005
+policeunit_149 
+0.027
+ +/- 0.006
+year     
+0.027
+ +/- 0.007
+hour_cos 
+0.022
+ +/- 0.006
+day_of_year_sin 
+0.022
+ +/- 0.005
+month_sin 
+0.018
+ +/- 0.006
+day_of_year_cos 
+0.015
+ +/- 0.005
+month_cos 
+0.014
+ +/- 0.005
+policeunit_153 
+0.012
+ +/- 0.003
+district_5 
+0.010
+ +/- 0.002
+district_11 
+0.008
+ +/- 0.003
+policeunit_206 
+0.007
+ +/- 0.002
+district_25 
+0.006
+ +/- 0.002
+district_4 
+0.006
+ +/- 0.002
+policeunit_155 
+0.006
+ +/- 0.001
+policeunit_174 
+0.006
+ +/- 0.002
+district_31 
+0.006
+ +/- 0.002
+policeunit_5 
+0.005
+ +/- 0.001
+district_9 
+0.005
+ +/- 0.002
+policeunit_6 
+0.005
+ +/- 0.002
+district_12 
+0.004
+ +/- 0.001
+policeunit_8 
+0.004
+ +/- 0.002
+district_16 
+0.004
+ +/- 0.001
+district_19 
+0.004
+ +/- 0.002
+policeunit_12 
+0.004
+ +/- 0.001
+policeunit_7 
+0.004
+ +/- 0.002
+policeunit_16 
+0.004
+ +/- 0.001
+policeunit_156 
+0.003
+ +/- 0.001
+policeunit_208 
+0.003
+ +/- 0.001
+policeunit_9 
+0.003
+ +/- 0.001
+policeunit_4 
+0.002
+ +/- 0.001
+district_41 
+0.002
+ +/- 0.001
+policeunit_25 
+0.002
+ +/- 0.001
+policeunit_13 
+0.002
+ +/- 0.001
+policeunit_151 
+0.002
+ +/- 0.001
+policeunit_177 
+0.001
+ +/- 0.001
+policeunit_23 
+0.001
+ +/- 0.000
+confusion matrix: [[1056  607]
+ [ 821 1395]]
+validation accuracy: 0.6318638824439289
+f_score: 0.5966101694915253
+policeunit_149 
+0.035
+ +/- 0.004
+hour_cos 
+0.030
+ +/- 0.006
+year     
+0.030
+ +/- 0.006
+day_of_year_cos 
+0.030
+ +/- 0.005
+month_cos 
+0.030
+ +/- 0.006
+day_of_year_sin 
+0.027
+ +/- 0.005
+hour_sin 
+0.025
+ +/- 0.006
+month_sin 
+0.025
+ +/- 0.004
+district_11 
+0.022
+ +/- 0.003
+policeunit_174 
+0.009
+ +/- 0.002
+policeunit_5 
+0.008
+ +/- 0.001
+policeunit_153 
+0.008
+ +/- 0.002
+district_15 
+0.007
+ +/- 0.002
+district_6 
+0.007
+ +/- 0.002
+policeunit_208 
+0.006
+ +/- 0.001
+policeunit_206 
+0.006
+ +/- 0.001
+district_16 
+0.006
+ +/- 0.002
+policeunit_11 
+0.005
+ +/- 0.002
+policeunit_157 
+0.005
+ +/- 0.002
+district_5 
+0.005
+ +/- 0.002
+district_7 
+0.005
+ +/- 0.002
+policeunit_8 
+0.004
+ +/- 0.001
+policeunit_155 
+0.004
+ +/- 0.001
+district_25 
+0.004
+ +/- 0.002
+district_41 
+0.004
+ +/- 0.001
+district_19 
+0.004
+ +/- 0.002
+policeunit_212 
+0.004
+ +/- 0.001
+policeunit_156 
+0.004
+ +/- 0.001
+policeunit_6 
+0.004
+ +/- 0.001
+policeunit_7 
+0.003
+ +/- 0.001
+district_4 
+0.003
+ +/- 0.001
+policeunit_175 
+0.003
+ +/- 0.001
+district_1 
+0.002
+ +/- 0.001
+policeunit_4 
+0.002
+ +/- 0.001
+policeunit_26 
+0.002
+ +/- 0.001
+policeunit_15 
+0.002
+ +/- 0.000
+policeunit_18 
+0.001
+ +/- 0.000
+policeunit_218 
+0.001
+ +/- 0.000
+policeunit_80 
+0.000
+ +/- 0.000
+confusion matrix: [[1189  714]
+ [ 731 1245]]
+validation accuracy: 0.6274813096158803
+f_score: 0.6220245880198796
+policeunit_149 
+0.047
+ +/- 0.005
+district_11 
+0.036
+ +/- 0.004
+hour_cos 
+0.031
+ +/- 0.005
+day_of_year_cos 
+0.031
+ +/- 0.004
+hour_sin 
+0.030
+ +/- 0.006
+month_sin 
+0.029
+ +/- 0.004
+year     
+0.028
+ +/- 0.006
+month_cos 
+0.024
+ +/- 0.005
+day_of_year_sin 
+0.021
+ +/- 0.005
+policeunit_215 
+0.016
+ +/- 0.002
+district_16 
+0.012
+ +/- 0.002
+policeunit_174 
+0.010
+ +/- 0.003
+district_15 
+0.009
+ +/- 0.002
+policeunit_206 
+0.009
+ +/- 0.002
+policeunit_208 
+0.008
+ +/- 0.001
+district_19 
+0.007
+ +/- 0.002
+district_3 
+0.006
+ +/- 0.002
+policeunit_155 
+0.006
+ +/- 0.001
+policeunit_153 
+0.005
+ +/- 0.002
+policeunit_173 
+0.005
+ +/- 0.001
+policeunit_175 
+0.005
+ +/- 0.002
+policeunit_6 
+0.004
+ +/- 0.002
+policeunit_11 
+0.004
+ +/- 0.002
+policeunit_156 
+0.004
+ +/- 0.001
+district_12 
+0.004
+ +/- 0.001
+policeunit_12 
+0.003
+ +/- 0.001
+policeunit_212 
+0.003
+ +/- 0.001
+policeunit_10 
+0.002
+ +/- 0.001
+district_24 
+0.002
+ +/- 0.001
+district_41 
+0.002
+ +/- 0.001
+policeunit_3 
+0.001
+ +/- 0.001
+policeunit_15 
+0.001
+ +/- 0.000
